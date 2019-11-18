@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ["@tokenplace/default"],
+  extends: ["@roborox/default"],
 };
