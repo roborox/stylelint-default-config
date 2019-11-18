@@ -4,7 +4,9 @@ module.exports = {
 		"stylelint-order",
 	],
 	rules: {
-		indentation: ["tab"],
+		indentation: [
+			"tab",
+		],
 		"declaration-empty-line-before": "never",
 		"order/order": [
 			[
