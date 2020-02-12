@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/roborox/stylelint-default-config/compare/v1.0.2...v1.0.3) (2020-02-12)
+
+
+### Bug Fixes
+
+* update eslint & fix rules ([a558066](https://github.com/roborox/stylelint-default-config/commit/a558066dd02873bd88586e0329ff8cd058950fb9))
+
 ## [1.0.2](https://github.com/roborox/stylelint-default-config/compare/v1.0.1...v1.0.2) (2020-02-11)
 
 

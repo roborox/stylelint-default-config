@@ -1,6 +1,6 @@
 {
 	"name": "@roborox/stylelint-config-default",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Config for stylelint",
 	"main": "index.js",
 	"private": false,
