@@ -30,7 +30,7 @@
 		"stylelint": ">= 11.1.0"
 	},
 	"devDependencies": {
-		"@roborox/eslint-config-default": "2.0.1",
+		"@roborox/eslint-config-default": "2.1.1",
 		"@semantic-release/changelog": "3.0.4",
 		"@semantic-release/commit-analyzer": "6.2.0",
 		"@semantic-release/git": "7.0.16",

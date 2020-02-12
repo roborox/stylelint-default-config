@@ -19,7 +19,7 @@ your `.eslintrc.js` file
 
 ```
 module.exports = {
-  extends: ["@roborox/stylelint-config-default"],
-  /* your config goes here.. */
+	extends: ["@roborox/stylelint-config-default"],
+	/* your config goes here.. */
 }
 ```

@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ["@roborox/default"]
+	extends: ["@roborox/default"]
 };
